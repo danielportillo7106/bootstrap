@@ -1,1 +1,1 @@
-Curriculum vitae hecho con bootstrap v.5.1.
+Curriculum vitae desarrollado con bootstrap v.5.3.2.
